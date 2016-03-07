@@ -5,6 +5,7 @@ from deprecator.deprecator import deprecated
 
 
 class Foo:
+
     @deprecated
     def deprecated_method(self):
         pass
