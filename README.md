@@ -1,2 +1,2 @@
-# deprecator
-A deprecated annotation for pyhton
+# Deprecator
+A deprecated annotation for python
